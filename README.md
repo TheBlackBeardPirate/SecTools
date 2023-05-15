@@ -1,5 +1,5 @@
 # SecTools
-## A bunch of security/hacking tools
+## A bunch of security/hacking tools used by me on CTF's and hack a flag around the internet
 
 #### Disclaimer
 
